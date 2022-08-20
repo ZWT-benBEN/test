@@ -1,0 +1,30 @@
+{
+  "id": "3496834",
+  "name": "demo1",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5024140",
+      "name": "桌子",
+      "font_class": "zhuozi",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "5077962",
+      "name": "桌子",
+      "font_class": "zhuozi1",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "5155537",
+      "name": "桌子",
+      "font_class": "zhuozi2",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    }
+  ]
+}
